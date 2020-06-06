@@ -1,6 +1,6 @@
 <template>
   <div class="head">
-    <h1>黑又软狗哥音乐</h1>
+    <h1>音乐播放器</h1>
     <router-link class="list" tag="div" to="/user">
       <i class="mui-icon mui-icon-bars"></i>
     </router-link>
